@@ -1,2 +1,0 @@
-print("nithin")
-print("kjdvbnfk")
